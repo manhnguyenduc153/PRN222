@@ -89,10 +89,6 @@ appsettings.Production.json
 # Hoặc chỉ ignore connection strings
 # appsettings.*.json
 
-# Storage folder (nếu chứa uploaded files)
-Storage/
-wwwroot/uploads/
-
 # Package files
 *.nupkg
 *.snupkg
